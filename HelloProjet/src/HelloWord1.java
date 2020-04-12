@@ -12,6 +12,6 @@ public class Main {
 
 		System.out.println("HelloWorld3!");
 		System.out.println("HelloWorld4l!");
-		System.out.println("HelloWorld5l!");
+		System.out.println("HelloWorld5r!");
     }
 }
