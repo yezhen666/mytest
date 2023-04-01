@@ -14,5 +14,6 @@ public class Main {
 		System.out.println("HelloWorld4l!");
 		System.out.println("HelloWorld5l-1!");
 		System.out.println("HelloWorld6l!");
+		System.out.println("第一次提交!");
     }
 }
