@@ -17,5 +17,7 @@ public class Main {
 System.out.println("777777777777777!");
 System.out.println("888888888888888!");
 System.out.println("第10次提交!");
+System.out.println("第11次提交!");
+System.out.println("第12次提交!");
     }
 }
